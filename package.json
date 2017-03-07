@@ -1,0 +1,19 @@
+{
+  "name": "fakturatron",
+  "version": "1.0.0",
+  "description": "Invoicing tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "lab"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikl/fakturatron.git"
+  },
+  "author": "Mikkel Hoegh <mikkel@hoegh.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikl/fakturatron/issues"
+  },
+  "homepage": "https://github.com/mikl/fakturatron#readme"
+}
